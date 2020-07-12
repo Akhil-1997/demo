@@ -5,3 +5,7 @@ print("using for the first time")
 
 %% forgot to add something
 %% will add after practicing
+
+adding temporary code
+if x == 10
+print ("you can win the match")
