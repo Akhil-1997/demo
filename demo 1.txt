@@ -1,0 +1,4 @@
+This is not a code. 
+Just for practicing Github.
+
+print("using for the first time")
